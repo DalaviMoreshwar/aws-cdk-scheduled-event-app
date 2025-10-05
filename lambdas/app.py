@@ -1,6 +1,6 @@
 import random
 
-def hander (event, context):
+def handler (event, context):
     quotes = [
   { id: 1, "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.", "author": "Winston Churchill" },
   { id: 2, "quote": "Do not wait for leaders; do it alone, person to person.", "author": "Mother Teresa" },
